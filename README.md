@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Shang En.
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/simshangen/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 <!--
 **12458/12458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
