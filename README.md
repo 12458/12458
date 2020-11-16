@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Shang En.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/simshangen/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/simshangen/"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/linkedin.png"></a>
+<a href="https://www.notion.so/About-Sim-Shang-En-3cb6224d87a944339e0847a7e629f692"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/notion.png"></a>
 </p>
 <!--
 **12458/12458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
