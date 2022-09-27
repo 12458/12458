@@ -1,9 +1,21 @@
-### Hi there 👋, my name is Shang En.
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/simshangen/"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/linkedin.png"></a>
-<a href="https://www.notion.so/About-Sim-Shang-En-3cb6224d87a944339e0847a7e629f692"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/notion.png"></a>
-</p>
+<pre>
+  _    _      _ _        __          __        _     _ 
+ | |  | |    | | |       \ \        / /       | |   | |
+ | |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| |
+ |  __  |/ _ \ | |/ _ \    \ \/  \/ / _ \| '__| |/ _` |
+ | |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |
+ |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_|
+                                                       
+                                                       
+</pre>
+<pre>
+ ~> <strong>mail -s "Hello!" <a href="mailto:sim@shangen.org">sim@shangen.org</a></strong>
+ ~> <strong>finger sse</strong>
+Login: sse                              Name: sse
+Directory: /home/sse                    Shell: /usr/bin/bash
+Plan:
+  Learning \o/
+</pre>
 <!--
 **12458/12458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
