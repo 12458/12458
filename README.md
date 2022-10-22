@@ -17,6 +17,7 @@ Plan:
 </pre>
 
 <p align='center'>
+<a href="https://about.shangen.org/resume.pdf"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/resume.png"></a>
 <a href="https://www.linkedin.com/in/simshangen/"><img height="30" src="https://raw.githubusercontent.com/12458/12458/master/icons/linkedin.png"></a>
 </p>
 
