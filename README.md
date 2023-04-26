@@ -17,7 +17,7 @@ Plan:
 </pre>
 
 <p align='center'>
-<a href="https://about.shangen.org/resume.pdf">Resume</a>|<a href="https://www.linkedin.com/in/simshangen/">LinkedIn</a>|<a href="https://t.me/shange3n">Telegram</a>
+<a href="https://about.shangen.org/resume.pdf">Resume</a>|<a href="https://www.linkedin.com/in/simshangen/">LinkedIn</a>|<a href="https://t.me/shang3n">Telegram</a>
 </p>
 
 <!--
