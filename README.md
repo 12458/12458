@@ -17,7 +17,7 @@ Plan:
 </pre>
 
 <p align='center'>
-<a href="https://about.shangen.org/resume.pdf">Resume</a>|<a href="https://www.linkedin.com/in/shangen/">LinkedIn</a>|<a href="https://t.me/shang3n">Telegram</a>|<a href="https://blog.shangen.org/">Blog</a>
+<a href="https://pub-f56036152e97481b973f613878dd078d.r2.dev/Resume_SIM%20SHANG%20EN_sim@shangen.org_Publishing.pdf">Resume</a>|<a href="https://www.linkedin.com/in/shangen/">LinkedIn</a>|<a href="https://t.me/shang3n">Telegram</a>|<a href="https://blog.shangen.org/">Blog</a>
 </p>
 
 <!--
