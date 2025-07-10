@@ -1,36 +1,58 @@
-<pre>
-  _    _      _ _        __          __        _     _ 
+```
+  *    *      * *       **          **        *     * 
  | |  | |    | | |       \ \        / /       | |   | |
- | |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| |
- |  __  |/ _ \ | |/ _ \    \ \/  \/ / _ \| '__| |/ _` |
+ | |__| | ___| | | ___    \ \  /\  / /__  *_*| | __| |
+ |  __  |/ * \ | |/ * \    \ \/  \/ / * \| '*_| |/ _` |
  | |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |
  |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_|
+```
 
-</pre>
-<pre>
- ~> <strong>mail -s "Hello!" <a href="mailto:sim@shangen.org">sim@shangen.org</a></strong>
- ~> <strong>finger sse</strong>
+## Welcome
+
+```bash
+sim@shangen.org:~$ whoami
+Full-stack developer | Problem solver | Learning enthusiast
+
+sim@shangen.org:~$ cat /etc/profile
 Login: sse                              Name: Sim Shang En
 Directory: /home/sse                    Shell: /usr/bin/bash
-Plan:
-  Learning \o/
-</pre>
+Status: ● Online                        Uptime: Learning \o/
+```
 
-<p align='center'>
-<a href="https://go.shangen.org/cv">Resume</a>|<a href="https://www.linkedin.com/in/shangen/">LinkedIn</a>|<a href="https://t.me/shang3n">Telegram</a>|<a href="https://blog.shangen.org/">Blog</a>
-</p>
+## Connect with me
 
-<!--
-**12458/12458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+sim@shangen.org:~$ cat /dev/social
+```
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shangen/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shang3n)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shangen.org/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sim@shangen.org)
+
+</div>
+
+```bash
+sim@shangen.org:~$ fortune | cowsay
+ ______________________________________
+< Thanks for visiting my profile! 🚀 >
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+sim@shangen.org:~$ echo "Let's build something amazing together!"
+Let's build something amazing together!
+
+sim@shangen.org:~$ _
+```
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=12458)
+
+</div>
