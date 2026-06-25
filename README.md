@@ -1,18 +1,9 @@
 ```bash
-sim@shangen.org:~$ fortune | cowsay
- ______________________________________
-< Thanks for visiting my profile! 🚀 >
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-sim@shangen.org:~$ echo "Let's build something amazing together!"
-Let's build something amazing together!
-
-sim@shangen.org:~$ _
+sim@shangen.org:~$ ./sse
+  ___ ___  ___ 
+ / __/ __|/ _ \
+ \__ \__ \  __/
+ |___/___/\___|
 ```
 
 <div align="center">
